@@ -3,7 +3,7 @@ For my Tableau Homework
 
 Analysis
 
-My story starts off witha a map of all the starting stations and how often they were used as a starting location in June 2020.
+My story starts off with a map of all the starting stations and how often they were used as a starting location in June 2020.
 The top five starting stations in June 2020 were as follows:
 
 12 Ave & W 40th st 
