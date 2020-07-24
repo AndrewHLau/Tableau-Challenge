@@ -12,7 +12,7 @@ West St & Chambers st,
 Broadway & W60th st, 
 Pier 40 - Hudson River Park
 
-Next, I decided to take a look at average trip duration in June for the year 2017 through 2020. Overall in was up and down. It increased from about 18 minutes in 2017 to just over 20 minutes in 2018, then it dipped back to 18 and half minutes in 2019. However, in 2020 it increased sharply to over 27 minutes in 2020. 
+Next, I decided to take a look at average trip duration in June for the year 2017 through 2020. Overall in was up and down. It increased from about 18 minutes in 2017 to just over 20 minutes in 2018, then it dipped back to 18 and half minutes in 2019. However, in 2020 it increased sharply to over 27 minutes. 
 
 I also wanted to look at growth in riders year over year. June 2018 had 221,509 more riders than 2017 or a growth of 12.79%. June 2019 had 172,267 more riders than 2018 or 8.82% growth. However, June 2020 had 243,097 less riders than June of 2019 or a reduction of -11.44%. Over the entire period ridership increased in the month of June by 150.679 or an increase of 8.69%.
 
