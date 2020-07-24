@@ -6,10 +6,10 @@ Analysis
 My story starts off with a map of all the starting stations and how often they were used as a starting location in June 2020.
 The top five starting stations in June 2020 were as follows:
 
-12 Ave & W 40th st 
-1 Ave & E68th st
-West St & Chambers st
-Broadway & W60th st
+12 Ave & W 40th st, 
+1 Ave & E68th st, 
+West St & Chambers st, 
+Broadway & W60th st, 
 Pier 40 - Hudson River Park
 
 Next, I decided to take a look at average trip duration in June for the year 2017 through 2020. Overall in was up and down. It increased from about 18 minutes in 2017 to just over 20 minutes in 2018, then it dipped back to 18 and half minutes in 2019. However, in 2020 it increased sharply to over 27 minutes in 2020. 
