@@ -20,4 +20,4 @@ Another interesting topic to dive into would be the top 10 most popular start st
 
 Additionally a Gender analysis was in order because CitiBike is trying to increase female ridership. A set of Gender Pie charts shows the ratio of females vs males increased slightly each year from 2017 through 2019, but then reversed sharply in 2020. The ratio was 41.48% in 2017, then 42.28% in 2018, then 42.99% in 2019, and then 35.95% in 2020. Finally, the bar charts show an increase in female ridership from 2018 to 2019, and then a large decrease in 2020.
 
-The final page in this story shows that younger riders have longer average trip duration, but not by much as shown by a trend line that is almost horizontal. A slope of just 1.9 (in seconds) when the average trip duration is over 27 minutes.
+The final page in this story shows that younger riders have longer average trip duration, but not by much as shown by a trend line that is almost horizontal. The slope, although positive, is just 1.9 (in seconds) when the average trip duration is over 27 minutes.
